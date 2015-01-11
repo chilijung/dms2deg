@@ -9,9 +9,9 @@ degrees minutes seconds: 40° 26′ 46″ N 79° 58′ 56″ W
 degrees decimal minutes: 40° 26.767′ N 79° 58.933′ W
 decimal degrees: 40.446° N 79.982° W
 There are 60 minutes in a degree and 60 seconds in a minute. Then to convert from a degrees minutes seconds format to a decimal degrees format, one may use the formula
-![img1](http://)
+![img1](https://raw.githubusercontent.com/chilijung/dms2deg/master/img/img1.png)
 To convert back from decimal degree format to degrees minutes seconds format,
-![img2](http://)
+![img2](https://raw.githubusercontent.com/chilijung/dms2deg/master/img/img2.png)
 
 ## License
 
