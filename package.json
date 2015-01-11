@@ -1,0 +1,29 @@
+{
+  "name": "dms2deg",
+  "version": "0.0.0",
+  "description": "This will convert decimal degrees in to degrees, minutes, seconds.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chilijung/dms2deg.git"
+  },
+  "keywords": [
+    "dms",
+    "degree",
+    "latitude",
+    "longtitude"
+  ],
+  "author": "chilijung <chilijung@gmail.com> (http://lijung.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chilijung/dms2deg/issues"
+  },
+  "homepage": "https://github.com/chilijung/dms2deg"
+}
